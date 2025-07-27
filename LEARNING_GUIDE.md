@@ -8,7 +8,7 @@ This guide helps you build the blog website from scratch, understanding each con
 
 ### Phase 1: Understanding the Technologies
 
-#### 1.1 .NET Core Web API Basics
+#### 1.1 .NET 8.0 Web API Basics
 **What to Learn:**
 - What is a Web API and why use it?
 - HTTP methods (GET, POST, PUT, DELETE)
@@ -16,7 +16,7 @@ This guide helps you build the blog website from scratch, understanding each con
 - JSON data format
 
 **Resources:**
-- Microsoft .NET Core documentation
+- Microsoft .NET 8.0 documentation
 - REST API tutorials
 - JSON basics
 
@@ -25,7 +25,7 @@ This guide helps you build the blog website from scratch, understanding each con
 - Test with Postman or browser
 - Understand HTTP status codes
 
-#### 1.2 React.js Fundamentals
+#### 1.2 React.js 19+ Fundamentals
 **What to Learn:**
 - What is React and why use it?
 - Components and JSX
@@ -33,7 +33,7 @@ This guide helps you build the blog website from scratch, understanding each con
 - Functional components vs class components
 
 **Resources:**
-- React official documentation
+- React 19+ official documentation
 - React tutorials on YouTube
 - JSX syntax guide
 
@@ -83,7 +83,7 @@ This guide helps you build the blog website from scratch, understanding each con
 
 **What You'll Learn:**
 - Database relationships
-- Entity Framework Core
+- Entity Framework Core 8.0
 - Code-first approach
 - Migration concepts
 
@@ -192,7 +192,7 @@ This guide helps you build the blog website from scratch, understanding each con
 - [Entity Framework Core 8.0](https://docs.microsoft.com/en-us/ef/core/)
 - [ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/)
 
-### React.js
+### React.js 19+
 - [React Official Documentation](https://reactjs.org/docs/getting-started.html)
 - [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 - [React Hooks Documentation](https://reactjs.org/docs/hooks-intro.html)
